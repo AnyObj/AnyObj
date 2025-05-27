@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Hi, I'm Andrea 👋
+# Hi, I'm Andre 👋
 
 Welcome to my GitHub profile! 🌟
 
