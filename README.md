@@ -20,7 +20,7 @@ Welcome to my GitHub profile! 🌟
 ![Database & Tools](https://skillicons.dev/icons?i=mysql,postgres,)
 
 #### Other tools & Technologies
-![Others](https://skillicons.dev/icons?i=openshift,redhat,jenkins,vim,git,github,markdown,gitlab)
+![Others](https://skillicons.dev/icons?i=openshift,redhat,jenkins,vim,git,github,gitlab)
 
 
 
